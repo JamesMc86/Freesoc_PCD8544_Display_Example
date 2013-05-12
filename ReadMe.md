@@ -21,6 +21,8 @@ Contents
 Credits
 -------
 
-This library was developed by James McNally (c) 2013.
+This library was developed by James McNally (c) 2013. I am happy to put this under the BeerWare license. You are free to use this for whatever you want. If we meet someday and you think it is worth it, you can buy me a beer!
+
 The ASCII table was taken from http://playground.arduino.cc/Code/PCD8544
+
 The images were created using great instructions at https://www.sparkfun.com/tutorials/300

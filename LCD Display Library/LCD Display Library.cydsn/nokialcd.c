@@ -3,11 +3,14 @@
  * Controller on Nokia 3310 and 5110 dsiplays.
  * 12th May 2013
  * Copyright James McNally, 2013
- * All Rights Reserved
- * UNPUBLISHED, LICENSED SOFTWARE.
  *
- * CONFIDENTIAL AND PROPRIETARY INFORMATION
- * WHICH IS THE PROPERTY OF your company.
+ * ----------------------------------------------------------------------------
+ * "THE BEER-WARE LICENSE" (Revision 42):
+ * As long as you retain this notice you
+ * can do whatever you want with this stuff. If we meet some day, and you think
+ * this stuff is worth it, you can buy me a beer in return.
+ * ----------------------------------------------------------------------------
+ *
  *
  * ========================================
 */
